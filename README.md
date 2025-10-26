@@ -13,7 +13,7 @@
 - Day 1 下午
   - [串列](https://colab.research.google.com/github/Python-Tutorial-Workshop/2025/blob/master/03_list.ipynb)
   - [迴圈](https://colab.research.google.com/github/Python-Tutorial-Workshop/2025/blob/master/04_loop.ipynb)
-  - [學習助教 ChatGPT](https://colab.research.google.com/github/Python-Tutorial-Workshop/2025/blob/master/99_chatgpt.ipynb)
+  - [學習夥伴 ChatGPT](https://colab.research.google.com/github/Python-Tutorial-Workshop/2025/blob/master/99_chatgpt.ipynb)
 - Day 2 上午
   - [字典](https://colab.research.google.com/github/Python-Tutorial-Workshop/2025/blob/master/05_dictionary.ipynb)
   - [Online Judge & 相關查詢資源](https://colab.research.google.com/github/Python-Tutorial-Workshop/2025/blob/master/06_onlinejudge_doc.ipynb)
